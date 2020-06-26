@@ -1,5 +1,17 @@
 # @keystonejs/keystone
 
+## 11.2.0
+
+### Minor Changes
+
+- [`f296866df`](https://github.com/keystonejs/keystone/commit/f296866dfab3af54381fd527473e3dc98425b3b9) [#3199](https://github.com/keystonejs/keystone/pull/3199) Thanks [@Vultraz](https://github.com/Vultraz)! - Support GraphQL AST input in `executeGraphQL`. This should be created with the `gql` template literal imported from `apollo-server-express`.
+
+### Patch Changes
+
+- Updated dependencies [[`69d7f2e50`](https://github.com/keystonejs/keystone/commit/69d7f2e50ef2325c0d3b02b8bb5c310590796fed), [`3adb2ac2a`](https://github.com/keystonejs/keystone/commit/3adb2ac2ac4ab65636ffea1b2b1f7044410c2b8b)]:
+  - @keystonejs/utils@5.4.2
+  - @keystonejs/fields@13.0.2
+
 ## 11.1.3
 
 ### Patch Changes
